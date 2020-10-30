@@ -3280,6 +3280,7 @@ h3 {
       }
       .container-fixed {
         overflow-x: hidden;
+        height: 570px;
       }
     }
 
@@ -3295,6 +3296,7 @@ h3 {
       }
       .container-fixed {
         overflow-x: hidden;
+        height: 600px;
       }
     }
 
